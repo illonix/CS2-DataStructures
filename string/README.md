@@ -1,2 +1,47 @@
-# CS2-DataStructures
-This repository contains projects and exercises from my CS2 class, focusing on Data Structures and Abstraction. It includes implementations of common data structures, algorithms, and problem-solving techniques. The goal is to deepen understanding of how data is organized, manipulated, and optimized in computer science.
+# String Class Implementation
+Overview
+This repository contains the implementation of a String class in C++. The class provides fundamental string operations and is designed for use with specific test oracles. The implementation includes constructors, operator overloading, utility functions, and additional helper methods.
+
+Files
+string.hpp: Interface definition for the String class.
+
+string.cpp: Implementation of the String class methods.
+
+Features
+Constructors:
+
+Default constructor
+
+Character-based constructor
+
+C-string constructor
+
+Copy constructor
+
+Operators:
+
+= (Assignment)
+
++ (Concatenation)
+
+==, !=, <, <=, >, >= (Comparison)
+
+[] (Indexing)
+
+<<, >> (Stream operators)
+
+Utility Methods:
+
+length(), capacity()
+
+swap()
+
+substr(start, end)
+
+findch(start, ch), findstr(start, s)
+
+empty()
+
+toInt()
+
+split(delimiter)
