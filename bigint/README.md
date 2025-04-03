@@ -40,7 +40,9 @@ This repository contains the implementation of a Bigint class in C++. The class 
 
 # Compilation & Usage
 To compile and use the `Bigint` class:
-``` g++ -std=c++11 -o test bigint.cpp main.cpp ./test ```
+```
+ g++ -std=c++11 -o test bigint.cpp main.cpp ./test
+```
 
 # Author
 ## Interface: Dr. J. Maletic
