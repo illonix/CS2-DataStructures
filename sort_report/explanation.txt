@@ -1,0 +1,5 @@
+bubble sort is taking the longest because it has to look at everything every single time and swap them together.
+it has to go through the entire thing comparing from right to left and swap them every time. due to this
+it is going to take a long time because every single thing has to be compared for the bubble sort to work.
+subscript operator also takes long because of the bubblesort is taking so long to compare everything together.
+bubble sort uses operator[] so much so it takes long aswell.
